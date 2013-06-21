@@ -1,0 +1,14 @@
+{
+    "name": "odino/phpunit-notifications",
+    "description": "A shell script to get desktop notifications after PHPUnit has run.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "odino",
+            "email": "alessandro.nadalin@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
